@@ -11,7 +11,7 @@ background: url(../assets/img/stars.jpg) center /cover;
     height: 50px;
 }
 
-/* td, th {
+td, th {
     text-align: center;
     justify-content: center;
-} */
+} 
